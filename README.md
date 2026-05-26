@@ -17,3 +17,11 @@
 ### 23 May 2026
 - Add spoof for games
 - tweaked and optimized the blur things
+
+### 26 May 2026
+- Add blur on volume panel and power button
+- Fix cant flash with bootable recovery
+- Shut up unused log spam
+- Rework Display settings
+- Fixed certificate and OTA link
+- Add more spoof for several apk

@@ -25,3 +25,7 @@
 - Rework Display settings
 - Fixed certificate and OTA link
 - Add more spoof for several apk
+
+### 18 June 2026
+- Bump security patch to june
+- Adding qsb

@@ -29,3 +29,9 @@
 ### 18 June 2026
 - Bump security patch to june
 - Adding qsb
+
+### 21 June 2026
+- Adding lockscreen carrier text customization
+- Adding Peak Aod
+- Fixed Bug stuttering when open lockscreen with fingerprint
+- More optimized for blur

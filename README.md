@@ -1,4 +1,4 @@
-![Banner](https://github.com/pos-hound/.github/blob/hound/profile/hound.png)
+![Banner](https://github.com/pos-hound/.github/blob/hound/hound.png)
 # Changelogs For PosXhound
 ### 20 May 2026
 - initial Merge PixelOS X Hound
